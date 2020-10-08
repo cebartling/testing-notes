@@ -1,0 +1,6 @@
+[book]
+authors = ["Christopher Bartling"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Testing Notes"
